@@ -1,4 +1,4 @@
-Knight Moves — Homework
+Knight Moves — CS106B Homework
 ==============================
 Find the minimum number of moves for a knight to reach a target position using BFS (Breadth-First Search).
 
@@ -192,7 +192,6 @@ struct PosHash {
 
 ### Memory & Style
 * No memory leaks (all containers manage their own memory)
-* Functions ≤ 50 lines; helper functions encouraged
 * Descriptive names and comprehensive comments
 * Detailed TODOs guide implementation
 
